@@ -1,0 +1,19 @@
+h1 {
+  text-align: center; }
+
+h2 {
+  text-align: center; }
+
+.farmers-markets {
+  border: 1px solid gray;
+  margin: 50px;
+  display: block;
+  padding: 10px; }
+
+.market-list {
+  border: 1px solid red; }
+
+.cat-gifs {
+  border: 1px solid blue; }
+
+/*# sourceMappingURL=main.css.map */
